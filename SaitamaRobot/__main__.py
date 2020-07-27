@@ -27,6 +27,7 @@ Made and coding by @telegrmking...
 
 See All The Dev Groups The Bot Is Made For on [👉DEV GROUPS👈](t.me/dev_groups).
 
+TYPE /help FOR MORE INFO AND COMMANDS
 """
 
 HELP_STRINGS = """
