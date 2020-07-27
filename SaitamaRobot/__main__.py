@@ -25,7 +25,7 @@ You can find my list of available commands with /help.
 Developed purposely for @devonline...
 Made and coding by @telegrmking...
 
-**See All The Dev Groups The Bot Is Made For on [👉DEV GROUPS👈](t.me/dev_groups).**
+*See All The Dev Groups The Bot Is Made For on [👉DEV GROUPS👈](t.me/dev_groups).*
 
 TYPE /help FOR MORE INFO AND COMMANDS
 """
