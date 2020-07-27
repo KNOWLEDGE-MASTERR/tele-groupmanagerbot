@@ -26,8 +26,7 @@ Developed purposely for @devonline...
 Made and coding by @telegrmking...
 
 See All The Dev Groups The Bot Is Made For on [👉DEV GROUPS👈](t.me/dev_groups).
-Support is at @dev_groups
-"""
+Support is at @dev_groups"""
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
