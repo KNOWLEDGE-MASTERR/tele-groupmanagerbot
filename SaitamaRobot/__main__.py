@@ -22,12 +22,11 @@ I am an Anime themed group management bot.
 To add me to your group click ["HERE"](t.me/dev_online_bot?startgroup=botstart)
 You can find my list of available commands with /help.
 
-Developed purposely for @devonline...
-Made and coding by @telegrmking...
+_Developed purposely for_ @devonline...
+_Made and coding by_ @telegrmking...
 
-*See All The Dev Groups The Bot Is Made For on [👉DEV GROUPS👈](t.me/dev_groups).*
-
-TYPE /help FOR MORE INFO AND COMMANDS
+*See All The Dev Groups The Bot Is Made For on* [👉DEV GROUPS👈](t.me/dev_groups).
+Support is at @dev_groups
 """
 
 HELP_STRINGS = """
