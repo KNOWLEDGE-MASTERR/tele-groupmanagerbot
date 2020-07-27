@@ -19,11 +19,13 @@ from SaitamaRobot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
-To add me to your group click ["HERE"](t.me/SaitamaRobot?startgroup=botstart)
+To add me to your group click ["HERE"](t.me/dev_online_bot?startgroup=botstart)
 You can find my list of available commands with /help.
 
-[Saitama's Repo](github.com/AnimeKaizoku/SaitamaRobot) 
-See [Basic Configuration Checklist](t.me/OnePunchUpdates/29) on how to secure your group.
+Developed purposely for @devonline...
+Made and coding by @telegrmking...
+
+See All The Dev Groups The Bot Is Made For on [👉DEV GROUPS👈](t.me/dev_groups).
 The support group chat is at {}.
 """
 
@@ -47,9 +49,9 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Saitama is hosted on one of Kaizoku's Servers and doesn't require any donations as of now but \
-You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+DEV ADMIN BOT is hosted on one of Tele King's Servers and doesn't require any donations as of now. """
+
+
 
 IMPORTED = {}
 MIGRATEABLE = []
